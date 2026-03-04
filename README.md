@@ -20,16 +20,16 @@ When a pet is selected, the app shows a message box and displays the correspondi
 4. Run `RadioButtonDemo1.java`.
 ## Screenshots
 ### Bird selected
-![Bird Screenshot](screenshot-bird.png)
+![Bird Screenshot](screenshot-bird.jpg)
 
 ### Cat selected
-![Cat Screenshot](screenshot-cat.png)
+![Cat Screenshot](screenshot-cat.jpg)
 
 ### Dog selected
-![Dog Screenshot](screenshot-dog.png)
+![Dog Screenshot](screenshot-dog.jpg)
 
 ### Rabbit selected
-![Rabbit Screenshot](screenshot-rabbit.png)
+![Rabbit Screenshot](screenshot-rabbit.jpg)
 
 ### Pig selected
 ![Pig Screenshot](screenshot-pig.png)
