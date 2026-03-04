@@ -25,12 +25,11 @@ When a pet is selected, the app shows a message box and displays the correspondi
 ### Cat selected
 ![Cat Screenshot](cat.jpg)
 
-
 ### Dog selected
-![Dog Screenshot](screenshot-dog.jpg)
+![Dog Screenshot](dog.jpg)
 
 ### Rabbit selected
-![Rabbit Screenshot](screenshot-rabbit.jpg)
+![Rabbit Screenshot](rabbit.jpg)
 
 ### Pig selected
 ![Pig Screenshot](screenshot-pig.png)
