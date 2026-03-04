@@ -32,7 +32,7 @@ When a pet is selected, the app shows a message box and displays the correspondi
 ![Rabbit Screenshot](rabbit.jpg)
 
 ### Pig selected
-![Pig Screenshot](pig.png)
+![Pig Screenshot](pig.jpg)
 
 ## Author
 Everlyne Maina (Mekly783)
