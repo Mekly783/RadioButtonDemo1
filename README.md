@@ -1,5 +1,5 @@
 # RadioButtonDemo1
-2. Description
+Description:
 A Java Swing application built in Apache NetBeans.  
 It uses radio buttons to select a pet (Bird, Cat, Dog, Rabbit, Pig).  
 When a pet is selected, the app shows a message box and displays the corresponding image.
